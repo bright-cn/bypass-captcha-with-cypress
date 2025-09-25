@@ -5,10 +5,10 @@
 本指南介绍如何在 Cypress 中处理 CAPTCHA，包括有效的绕过方法，以及当 CAPTCHA 仍然出现时的应对措施，帮助实现流畅的浏览器自动化。
 
 - [什么是 CAPTCHA？能否自动化？](#什么是-captcha-能否自动化)
-- [验证码与 Cypress：一段艰难的关系](#captcha-与-cypress-一段艰难的关系)
-- [如何在 Cypress 中处理验证码](#如何在-cypress-中处理-captcha)
-  - [方法一：禁用验证码](#方法一-禁用-captcha)
-  - [方法二：自动化与验证码的交互](#方法二-自动化与-captcha-的交互)
+- [CAPTCHA 与 Cypress：一段“艰难”的关系](#captcha-与-cypress-一段艰难的关系)
+- [如何在 Cypress 中处理 CAPTCHA](#如何在-cypress-中处理-captcha)
+  - [方法一：禁用 CAPTCHA](#方法一-禁用-captcha)
+  - [方法二：自动化与 CAPTCHA 的交互](#方法二-自动化与-captcha-的交互)
   - [方法三：集成反检测浏览器](#方法三-集成反检测浏览器)
 - [这些 Cypress 方案都不奏效时该怎么办？](#这些-cypress-方案都不奏效时该怎么办)
 
