@@ -7,9 +7,9 @@
 - [什么是 CAPTCHA？能否自动化？](#什么是-captcha能否自动化)
 - [CAPTCHA 与 Cypress：一段“艰难”的关系](#captcha-与-cypress一段艰难的关系)
 - [如何在 Cypress 中处理 CAPTCHA](#如何在-cypress-中处理-captcha)
-  - [方法一：禁用 CAPTCHA](#方法一-禁用-captcha)
-  - [方法二：自动化与 CAPTCHA 的交互](#方法二-自动化与-captcha-的交互)
-  - [方法三：集成反检测浏览器](#方法三-集成反检测浏览器)
+  - [方法一：禁用 CAPTCHA](#方法一禁用-captcha)
+  - [方法二：自动化与 CAPTCHA 的交互](#方法二自动化与-captcha-的交互)
+  - [方法三：集成反检测浏览器](#方法三集成反检测浏览器)
 - [这些 Cypress 方案都不奏效时该怎么办？](#这些-cypress-方案都不奏效时该怎么办)
 
 ## 什么是 CAPTCHA？能否自动化？
