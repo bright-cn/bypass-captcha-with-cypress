@@ -12,7 +12,7 @@
   - [方法三：集成反检测浏览器](#方法三-集成反检测浏览器)
 - [这些 Cypress 方案都不奏效时该怎么办？](#这些-Cypress-方案都不奏效时该怎么办)
 
-## 什么是 CAPTCHA？能否自动化？
+## 什么是 CAPTCHA 能否自动化？
 
 CAPTCHA（全称为 Completely Automated Public Turing test to tell Computers and Humans Apart）是一种安全机制，用于区分真实用户与自动化脚本。它会给出对人类较易、对机器较难的挑战，常被放置在网页关键位置以阻止机器行为。
 
